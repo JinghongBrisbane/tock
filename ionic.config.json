@@ -1,0 +1,8 @@
+{
+  "name": "tock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0de5f765"
+}
